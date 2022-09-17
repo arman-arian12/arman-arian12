@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Arman Arian
 #### Web Developer
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<--![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)-->
 
 i am front End Web Developer. i'm still learn new langague and new think. i's halp me a dedicated web developer.I have a passion for learning and sharing my knowledge with other as possible.
 
